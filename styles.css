@@ -1,3 +1,74 @@
+body {
+font-family: sans-serif;
+}
+
+header {
+background-color: #120323;
+}
+
+h2{
+color: #120323;
+}
+
+header img {
+max-width 100%
+height:auto;
+}
+
+header h1 {
+
+}
+
+figure {
+
+}
+
+
+figure img {
+
+}
+
+
+aside {
+background-color: #97bf04;
+padding: 20px;
+width: 100%
+text-align: center;
+}
+
+
+footer {
+background-color: #d9043d;
+text-align: center;
+padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width: 768px) {
     img {
 margin:auto;
@@ -11,7 +82,7 @@ width: 90%;
 
 
 
-            
+
 
         }
 
