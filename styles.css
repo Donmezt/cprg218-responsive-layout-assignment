@@ -29,7 +29,9 @@ color: #120323;
 .header-container img {
     max-width: 250px;
     width: 100%;
+    align-items: center;
     margin-bottom: 10px;
+    padding: 5px;
 }
 
 #container {
@@ -87,8 +89,9 @@ padding-bottom: 5px;
     }
 
     .header-container img {
-        min-width: 100%;
-        max-width: 250px;
+        max-width: 150px;
+        height: auto;
+        width: 80%;
         }
 
 
